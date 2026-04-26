@@ -46,9 +46,8 @@ The dashboard reveals several useful insights.
 
 ## 5. Product Link & Demo
 
-GitHub Repository: []
-Streamlit Community Cloud[]
-Demo Video (Mediasite): [Insert your video link]
+GitHub Repository: [https://github.com/Lizzie-FLY/ACC102-ESG-Explorer-S-P-500-Dashboard-Analysis.git]
+Streamlit Community Cloud[https://acc102-esg-explorer-s-p-500-dashboard-analysis-kt5cwpxtw2yqd5c.streamlit.app/]
 
 Course: ACC102 — AI-Driven Data Analytics
 Track: Track 4 — Interactive Data Analysis Tool
@@ -76,8 +75,8 @@ The CSV file (`SP 500 ESG Risk Ratings.csv`) must be placed in the `/data` folde
 ### Steps
 ```bash
 # 1. Clone the repository
-git clone [Your GitHub Repository URL]
-cd [Your Repository Folder Name]
+git clone [https://github.com/Lizzie-FLY/ACC102-ESG-Explorer-S-P-500-Dashboard-Analysis.git]
+cd the file
 
 # 2. Install dependencies
 pip install -r requirements.txt
